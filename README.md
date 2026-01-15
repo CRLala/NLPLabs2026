@@ -1,8 +1,6 @@
-# Natural Language Processing (Spring Term 2025)
+# Natural Language Processing (Spring Term 2026)
 
-Lab sessions for Natural Language Processing course, taught at Imperial College London.
-
-See the [course Website](https://nlp.pages.doc.ic.ac.uk/spring2025/) for information on the Lab schedule.
+Lab sessions for Natural Language Processing module, taught at Imperial College London.
 
 ## Colab Links
 
